@@ -7,6 +7,7 @@
 &nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoDalponte&show_icons=true&theme=highcontrast)
 &nbsp;
 &nbsp;
