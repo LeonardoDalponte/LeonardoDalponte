@@ -13,6 +13,6 @@
 ## Linguagem que estudo atualmente
 <div style="display: inline-block"><br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="45" />
-   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" width="70" height="40" />
+   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" width="65" height="55" />
 
 </div><br/>
