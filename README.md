@@ -1,6 +1,6 @@
 ### Oi! Eu sou Leonardo Dalponte😎
 
-*  Olá! Seja muito bem vindo, sou um progamador iniciante em Java, atualmente sou apenas um aluno cursando o ensino médio e cursando Técnico em Informática, porem tento me desenvolver para o mercado de trabalho, aqui em meu perfil do GitHub você irá ver todos os projetos que eu irei desenvolver ao longo do tempo, espero que goste😁.
+* Sou Leonardo Dalponte, um estudante de programação apaixonado por aprender e enfrentar desafios complexos através da programação. Tenho estudado Kotlin em desenvolvimento android, Java e Spring Framework, e vejo cada novo projeto como uma oportunidade para expandir minhas habilidades e conhecimentos. Estou sempre aberto a novas oportunidades ou desafios e vejo eles como uma forma de me tornar um bom desenvolvedor.
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoDalponte&show_icons=true&theme=highcontrast)
 
@@ -14,5 +14,5 @@
 <div style="display: inline-block"><br/>
     <img alignitems="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-    
+   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" width="50" height="50" />
 </div><br/>
