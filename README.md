@@ -1,4 +1,4 @@
-<p alig = "center"> <strong> ### Oi! Eu sou Leonardo Dalponte 😎 </strong> </p>
+<p align = "center"> <strong> ### Oi! Eu sou Leonardo Dalponte 😎 </strong> </p>
 &nbsp;
 
 <strong> * Sou Leonardo Dalponte, um estudante de programação apaixonado por aprender e enfrentar desafios complexos através da programação. Tenho estudado Kotlin em desenvolvimento android, Java e Spring Framework, e vejo cada novo projeto como uma oportunidade para expandir minhas habilidades e conhecimentos. Estou sempre aberto a novas oportunidades ou desafios e vejo eles como uma forma de me tornar um bom desenvolvedor. </strong>
