@@ -19,6 +19,6 @@
 
 ## Redes Socias 
 
-<a href="mailto:leodalponte1@gmail.com"><img href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+<a href="mailto:leodalponte1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
