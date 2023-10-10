@@ -11,8 +11,6 @@
 &nbsp;
 &nbsp;
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB/klEQVR4nO2UPUvDUBSGszj4C/wFjbMUpDr1nChtiS42CoIgdTcuOkQ6qFDBWcG6iFbJXRxcTCcrKE7ufky2+g/Ej8GPI6mobdpqUzU3wfvCSyEJ9Hlyzo0kiYj4J5FIpB0ARhFxBxHPAOAWEem9iqJEJb8mGo0mAaBUCewsABxIfgwiLnwF7pC4AIAlROyQ/BAAMJqFd/QGAIa4wiNiNyI+tihgT+MJEfu5CQBAoVX4ColSOBxu8xxeUZSuZiFTw320kY7R5ZZa/q3zzLDnAgAw1wx0cVslyg9Wlc3Hnc+v8xA4+OpNO6GddUzihIfA1Xdv+ruyz0kUPRdAxHv7z91CO4tvB/mOhwD9lgAikhBwEzJD6sxYz8NvTcAY770nJickr0JMvn42O2l5OlYFs5oKUTYVaghb7/7KTIxeWCeRKV95KkBMrgG04bITjQUa3mey5wKJssSe+vLTFSJLfbbhyZTjngl8iFgD5z8WyA+e/gmcphvHmj5Lfmhy0jhqQYA/uFZRIaCJCcyKFXIV3iujiUOs/+PP6MhUmhbXcsSsAjFrnzLZXPlaYAQy2RztFo6ral8LjACzCjUC9iQCJLBfI2AGSSBTb4XWNoMjMDKVLkvYkwjkIdb+oJIQ0MUESKyQm/BeGU0cYj3gn9HkpHHEG1r77KFrARERqam8AnnKsZmT6CoxAAAAAElFTkSuQmCC">
-
 ## Linguagem que estudo atualmente
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="45" />
