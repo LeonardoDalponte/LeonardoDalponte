@@ -19,7 +19,7 @@
 
 ## Redes Socias 
 
-[![instagram](https://icons8.com.br/icon/32323/instagram)](https://www.instagram.com/leo.dalponte_/)
+<img src = https://icons8.com.br/icon/32323/instagram)](https://www.instagram.com/leo.dalponte_/)  />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 <a href="mailto:kauanprog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22%3E"></a>
 
