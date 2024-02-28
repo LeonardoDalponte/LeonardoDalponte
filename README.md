@@ -15,8 +15,7 @@
 ## Linguagens que estudo atualmente
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="45" />
-<img src="https://github.com/LeonardoDalponte/LeonardoDalponte/assets/126488429/c474f1f5-e24c-406b-9ce7-40fd910929bf
-" width="60" height="45"/>
+
 
 
 ## Redes Socias 
