@@ -15,6 +15,7 @@
 ## Linguagens que estudo atualmente
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="45" />
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27714%2Fnestjs&psig=AOvVaw3EhUfGRAK89mngqIxL_X2-&ust=1718127668198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCmtrbK0YYDFQAAAAAdAAAAABAE)" width="60" height="45" />
 
 
 
