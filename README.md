@@ -1,7 +1,7 @@
 <p align = "center"> <strong> ### Oi! Eu sou Leonardo Dalponte 😎 </strong> </p>
 &nbsp;
 
-<strong> * Sou Leonardo Dalponte, um jovem desenvolvedor apaixonado por aprender e enfrentar desafios complexos através da programação. Tenho estudos em Kotlin e desenvolvimento android, Além de Java ultilizando Spring Framework, e vejo cada novo projeto como uma oportunidade para expandir minhas habilidades e conhecimentos. Atualmente estou estagiando como desenvolvedor, aprendendo e ultilizando node, typescript com o framework nest.js. Estou sempre aberto a novas oportunidades ou desafios, e vejo eles como uma forma de me tornar um desenvolvedor melhor. </strong>
+<strong> * Sou Leonardo Dalponte, um jovem desenvolvedor apaixonado por aprender e enfrentar desafios complexos através da programação. Tenho estudos em Kotlin e desenvolvimento android, Além de Java ultilizando Spring Framework e typescript e o framework nest.js, e vejo cada novo projeto como uma oportunidade para expandir minhas habilidades e conhecimentos. Atualmente estou estagiando como desenvolvedor, aprendendo e ultilizando node, typescript com o framework nest.js. Estou sempre aberto a novas oportunidades ou desafios, e vejo eles como uma forma de me tornar um desenvolvedor melhor. </strong>
 
 &nbsp;
 &nbsp;
