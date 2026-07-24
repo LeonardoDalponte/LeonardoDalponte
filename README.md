@@ -8,6 +8,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoDalponte/LeonardoDalponte/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoDalponte/LeonardoDalponte/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha comendo o grid de contribuições" src="https://raw.githubusercontent.com/LeonardoDalponte/LeonardoDalponte/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## ⭐ Stack Principal
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
